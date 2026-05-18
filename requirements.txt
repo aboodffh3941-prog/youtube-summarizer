@@ -1,4 +1,2 @@
 streamlit
-protobuf
-youtube-transcript-api
-google-generativeai
+requests
